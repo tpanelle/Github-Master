@@ -1,0 +1,5 @@
+    /* Adds orange border to all images*/
+    img {
+        border: 10px groove orange;
+    }
+    /*Here's another CSS comment*/
